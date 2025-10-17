@@ -7,6 +7,7 @@
 
 ## What is Contract Testing?
 Contract testing is a testing approach that focuses on verifying the interactions between different services or components in a system. It ensures that the communication between these services adheres to predefined contracts, which specify the expected behavior, data formats, and protocols. Contract testing helps to identify integration issues early and ensures that services can evolve independently without breaking existing functionality.
+<br/>
 <Img src="images/relationship-between-contract-and-other-tests.png" with="400" height="300" />
 
 ## Benefits of Contract Testing
